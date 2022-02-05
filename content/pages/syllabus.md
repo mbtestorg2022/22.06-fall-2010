@@ -44,11 +44,48 @@ Assignments
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGE |
-| --- | --- |
-| Homework | 30% |
-| Mid-term quiz | 30% |
-| Final exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term quiz
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Statement on Plagiarism
 ---------------------------
@@ -58,31 +95,339 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course introduction {{< br >}}{{< br >}} Nuclear power overview {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Nuclear power overview (cont.) | &nbsp; |
-| 3 | Reactor physics review | &nbsp; |
-| 4 | Reactor physics review (cont.) | Pset 1 due |
-| 5 | Thermal parameters + conservation equations | &nbsp; |
-| 6 | PWR and BWR description | Pset 2 due |
-| 7 | Other reactor designs (heavy water, gas, liquid metal) | &nbsp; |
-| 8 | Thermal analysis of fuel elements (introduction to fuels and heat conduction equation) | Pset 3 due |
-| 9 | Thermal analysis of fuel elements (temperature distributions + core max temperature) | &nbsp; |
-| 10 | Ideal gas and incompressible fluid models + single-phase coolant flow (pressure drop and natural circulation) | Pset 4 due |
-| 11 | Single-phase coolant heat transfer (correlations + heat exchangers) | &nbsp; |
-| 12 | Mid-term quiz | &nbsp; |
-| 13 | Pure substance model two-phase coolant flow (parameters) | Pset 5 due |
-| 14 | Two-phase coolant flow and heat transfer (pressure drop + boiling) | Pset 6 due |
-| 15 | Two-phase coolant heat transfer (boiling crises + demos) | &nbsp; |
-| 16 | Power cycles (Rankine) | Pset 7 due |
-| 17 | Power cycles (Brayton) | &nbsp; |
-| 18 | Nuclear safety (pillars + thermal limits + protection system + ECCS + severe accidents + containment) | Pset 8 due |
-| 19 | Structural mechanics (elasticity fundamentals + thin-shell theory) | Pset 9 due |
-| 20 | Structural mechanics (stress limits) | &nbsp; |
-| 21 | Visit to the Seabrook Nuclear Power Station | &nbsp; |
-| 22 | Dynamic behavior of PWR (with use of PRISM simulator) | Pset 10 due |
-| 23 | Dynamic behavior of BWR (with use of IAEA simulator) | &nbsp; |
-| 24 | Advanced LWRs | &nbsp; |
-| 25 | Final exam review | &nbsp; |
-| 26 | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course introduction
+
+Nuclear power overview
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear power overview (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Reactor physics review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Reactor physics review (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal parameters + conservation equations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+PWR and BWR description
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Other reactor designs (heavy water, gas, liquid metal)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal analysis of fuel elements (introduction to fuels and heat conduction equation)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal analysis of fuel elements (temperature distributions + core max temperature)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Ideal gas and incompressible fluid models + single-phase coolant flow (pressure drop and natural circulation)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Single-phase coolant heat transfer (correlations + heat exchangers)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term quiz
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Pure substance model two-phase coolant flow (parameters)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Two-phase coolant flow and heat transfer (pressure drop + boiling)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Two-phase coolant heat transfer (boiling crises + demos)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Power cycles (Rankine)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Power cycles (Brayton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear safety (pillars + thermal limits + protection system + ECCS + severe accidents + containment)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Structural mechanics (elasticity fundamentals + thin-shell theory)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Structural mechanics (stress limits)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to the Seabrook Nuclear Power Station
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic behavior of PWR (with use of PRISM simulator)
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic behavior of BWR (with use of IAEA simulator)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced LWRs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
