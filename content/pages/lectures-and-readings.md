@@ -57,7 +57,7 @@ Nuclear Power Overview
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.5MB]({{< baseurl >}}/resources/mit22_06f10_lec01))
+([PDF - 6.5MB]({{< baseurl >}}/resources/mit22_06f10_lec01))
 {{< tdclose >}}
 {{< tdopen >}}
 \[RAK\] Chapter 1 (Covers LEC # 1, 2)
@@ -240,7 +240,7 @@ Two-Phase Coolant Flow (Parameters)
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit22_06f10_lec13))
+([PDF - 1.9MB]({{< baseurl >}}/resources/mit22_06f10_lec13))
 {{< tdclose >}}
 {{< tdopen >}}
  
